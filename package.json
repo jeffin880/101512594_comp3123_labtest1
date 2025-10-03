@@ -1,0 +1,15 @@
+{
+  "name": "101512594_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab Test 1 - Jeffin Yohannan (ID: 101512594)",
+  "main": "q1.js",
+  "type": "commonjs",
+  "scripts": {
+    "q1": "node q1.js",
+    "q2": "node q2.js",
+    "q3:add": "node q3Add.js",
+    "q3:remove": "node q3Remove.js"
+  },
+  "author": "Jeffin Yohannan",
+  "license": "ISC"
+}
